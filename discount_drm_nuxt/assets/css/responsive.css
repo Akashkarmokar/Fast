@@ -1,0 +1,330 @@
+@media(min-width:1336px) and (max-width:1500px) {
+    /*---Dashboard Home ---*/
+    ._source_img {
+        max-width: 50px;
+    }
+    ._dashboard_main_ranking_iamge {
+        margin: 0 0 0 16px;
+    }
+    ._table_heading_list {
+        display: flex;
+        padding: 0 40px 10px 47px !important;
+        margin: 0 58px 0 !important;
+        align-items: center;
+        margin: 0;
+        list-style: none;
+    }
+    ._table_heading_list li:nth-child(1) {
+        flex: 0 0 110px;
+        width: 40px;
+    }
+    ._table_heading_list li:nth-child(2) {
+        flex: 0 0 124px;
+        width: 50px;
+    }
+    /*---Dashboard Home ---*/
+
+    /*---Video--*/
+    ._video_inp {
+        flex: 0 0 39px;
+    }
+    ._dashboard_main_video_title:nth-child(2) {
+        flex: 0 0 154px;
+    }
+    ._dashboard_main_video_title:nth-child(3) {
+        flex: 0 0 90px;
+    }
+    ._dashboard_main_video_play {
+        flex: 0 0 133px;
+    }
+    ._dashboard_main_video_title:nth-child(4) {
+        flex: 0 0 190px;
+    }
+    ._dashboard_main_video_title:nth-child(5) {
+        flex: 0 0 130px;
+    }
+    ._dashboard_main_video_title:nth-child(6) {
+        flex: 0 0 100px;
+    }
+    ._dashboard_main_video_title:nth-child(7) {
+        flex: 0 0 108px;
+    }
+    ._dashboard_main_video_txt {
+        flex: 0 0 194px;
+    }
+    ._dashboard_main_video_btn {
+        flex: 0 0 94px;
+    }
+    ._dashboard_main_video_date {
+        flex: 0 0 153px;
+    }
+    ._dashboard_main_video_views {
+        flex: 0 0 11%;
+    }
+    ._dashboard_main_video_clicks {
+        flex: 0 0 15%;
+    }    
+    /*---Video--*/
+
+    /*--Campaign css ---*/
+    ._table_name {
+        flex: 0 0 170px;
+    }
+    ._table_status {
+        flex: 0 0 150px;
+    }
+    ._table_people {
+        flex: 0 0 170px;
+    }
+    ._table_message {
+        flex: 0 0 232px;
+    }
+    /*--Campaign css ---*/
+
+    /*--chat css ---*/
+    ._chat_left_box_txt h4 {
+        font-size: 12px;
+    }
+    ._chat_middle_message {
+        width: fit-content;
+        max-width: 50%;
+    }    
+    /*--chat css ---*/
+
+    /*--conversation css ---*/
+    /* ._conversation_chat_inner_wrap ._chat_left_read_item button {
+        width: 90px;
+    } */
+    ._conversation_chat_inner_wrap ._chat_middle_message {
+        width: fit-content;
+        max-width: 70%;
+    }
+    ._conversation_client_des h4 {
+        font-size: 20px;
+    }
+    ._conversation_client_area ul li {
+        flex: 0 0 70px;
+    }
+    /*--conversation css ---*/
+
+    /*---- people css ----*/
+    ._dashboard_people_top_inner_link {
+        font-size: 10px;
+    }
+    /*---- people css ----*/
+    ._dashboard_main_inner_para {
+        font-size: 12px;
+    }
+    ._loan_inpt {
+        width: 100%;
+    }
+    ._people_details_short_inpt {
+        flex: 0 0 110px;
+    }
+    ._people_details_short_inpt1 {
+        flex: 0 0 110px;
+    }
+    ._people_details_short_inpt2 {
+        flex: 0 0 110px;
+    }
+    ._people_details_short_inpt3 {
+        flex: 0 0 110px;
+    }
+    ._people_details_short_inpt4 {
+        flex: 0 0 110px;
+    }
+    ._people_details_inpt1 {
+        flex: 0 0 200px;
+    }
+    ._conversation_client_des_list li p {
+        font-size: 10px;
+    }
+    ._conversation_client_area ul li {
+        height: 90px;
+    }
+    ._notes_para {
+        max-width: 100%;
+    }
+    ._conversation_save_note_btn {
+        padding: 0 10px 10px;
+    } 
+    ._webhooks_right_title1 {
+        flex: 0 0 90px;
+    }
+    ._webhooks_right_title2 {
+        flex: 0 0 150px;
+    }   
+    ._webhooks_right_title3 {
+        flex: 0 0 100px;
+    }
+    ._webhooks_right_title4 {
+        flex: 0 0 100px;
+    }
+    ._webhooks_right_title5 {
+        flex: 0 0 75px;
+    }
+    ._webhooks_right_title6 {
+        flex: 0 0 90px;
+    }
+    ._webhooks_right_title7 {
+        flex: 0 0 80px;
+    }
+    ._webhooks_right_data:nth-child(1) {
+        flex: 0 0 90px;
+    }
+    ._webhooks_right_data:nth-child(2) {
+        flex: 0 0 150px;
+    }
+    ._webhooks_right_data:nth-child(3) {
+        flex: 0 0 100px;
+    }
+    ._webhooks_right_data:nth-child(4) {
+        flex: 0 0 100px;
+    }
+    ._webhooks_right_data:nth-child(5) {
+        flex: 0 0 75px;
+    }
+    ._webhooks_right_data:nth-child(6) {
+        flex: 0 0 90px;
+    }
+    ._hotline_right_info {
+        padding: 0 20px;
+    }
+    ._webhooks_main_wrap {
+        padding: 24px 10px;
+    }
+    ._webhooks_right_data p {
+        font-size: 10px;
+    }
+    ._webhooks_right_info p {
+        font-size: 10px;
+    }
+    ._webhooks_right_data:nth-child(7) {
+        flex: 0 0 85px;
+    }
+    ._webhooks_right_info_data {
+        padding: 13px 10px;
+    }
+    ._conversation_details_item {
+        font-size: 11px;
+    }
+    ._dashboard_main_bar_search_input::placeholder {
+        font-size: 12px;
+    }
+    ._dashboard_main_bar_search_input {
+        padding: 12px 18px 12px 39px;
+    }
+    ._dashboard_marketing_table_heading {
+        padding-left: 130px;
+    }
+    ._dashboard_marketing_data_txt:nth-child(2) {
+        flex: 0 0 82px;
+    }
+    ._dashboard_marketing_heading_title:nth-child(1) {
+        flex: 0 0 66px;
+    }
+    ._dashboard_marketing_data_txt:nth-child(3) {
+        flex: 0 0 65px;
+    }
+    ._dashboard_marketing_heading_title:nth-child(2) {
+        flex: 0 0 98px;
+    }
+    ._dashboard_marketing_data_txt:nth-child(4) {
+        flex: 0 0 98px;
+    }
+    ._dashboard_marketing_heading_title:nth-child(3) {
+        flex: 0 0 90px;
+    }
+    ._dashboard_marketing_data_txt:nth-child(5) {
+        flex: 0 0 90px;
+    }
+    ._dashboard_marketing_left {
+        flex: 0 0 322px;
+    }
+    ._marketing_wrap {
+        padding: 24px 20px;
+    }
+}
+@media(max-width:1440px) {
+    ._dashboard_people_top_inner_list {
+        margin: 0 8px 0 0;
+    }
+    ._top_select_new {
+        width: 105px;
+    }
+    ._dashboard_main_top_select_new {
+        margin: 0 6px 0 0;
+    }
+    ._dashboard_people_top_inner_item {
+        margin: 0 4px 0 0;
+    }
+    ._dashboard_people_top_inner {
+        overflow: scroll;
+    }
+    ._dashboard_people_top_inner::-webkit-scrollbar {
+        display: none;
+    }
+    ._dashboard_main_inner_title {
+        font-size: 28px;
+    }
+    ._dashboard_main_inner_txt_para {
+        font-size: 10px;
+        padding: 4px 10px;
+    }
+    ._dashboard_main_inner_para {
+        font-size: 10px;
+    }
+    ._nps_txt {
+        font-size: 10px;
+        margin: 0 0 12px;
+    }
+    ._peplDtls_lft_crd_list li button {
+        width: 46px;
+        height: 46px;
+    }
+    ._peplDtls_lft_crd_list li {
+        flex: 0 0 58px !important;
+    }
+    ._peplDtls_ctgry_info_txt1 {
+        font-size: 12px;
+    }
+    ._people_details_inner_area {
+        flex-wrap: wrap;
+    }
+    ._conversation_client_area2 ul li {
+        height: auto;
+    }
+    ._people_details_inner_area {
+        margin:0 0 20px;
+    }
+    ._rate_table_left_content_inner {
+        margin:0 0 0 6px;
+    }
+    ._rate_table_top_inner ._rate_table_content_item_li {
+        padding: 10px 10px;
+    }
+    ._rate_table_top_inner ._rate_table_top_inner_item {
+        margin: 10px 4px;
+    }
+    ._new_rate_table_top_more_drop {
+        right: 6px;
+    }
+    ._rate_table_top_inner ._rate_table_left_content_title, ._rate_table_top_inner_item ._rate_table_left_content_title {
+        font-size: 10px;
+    }
+    ._address_drop_area {
+        left: 474px;
+    }
+    ._chat_left_read_item button {
+        /* width:90px; */
+        font-size: 12px;
+    }
+    ._chat_img {
+        width: 38px;
+        height: 38px;
+        display: block;
+    }
+    ._people_details_inner_area_right {
+        margin-top: 2px;
+    }
+}
